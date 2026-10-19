@@ -1,0 +1,1 @@
+El problema lo tenemos todo el mundo debido a la contaminacion ambiental, la informacion que necesita registrar, son nombres, telefono y correo electronico

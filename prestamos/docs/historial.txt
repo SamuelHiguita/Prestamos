@@ -1,0 +1,9 @@
+    1  cd prestamos/docs/estructura.txt 
+    2  cd prestamos/
+    3  cd docs/
+    4  cd ..
+    5  ls -R docs/estructura.txt 
+    6  history docs/historial.txt 
+    7  history docs/historial.txt 
+    8  history 
+    9  history > docs/historial.txt
