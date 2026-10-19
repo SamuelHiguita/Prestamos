@@ -1,9 +1,12 @@
-    1  cd prestamos/docs/estructura.txt 
-    2  cd prestamos/
-    3  cd docs/
-    4  cd ..
-    5  ls -R docs/estructura.txt 
-    6  history docs/historial.txt 
-    7  history docs/historial.txt 
-    8  history 
-    9  history > docs/historial.txt
+    1  cd Desktop/mi-app/
+    2  ls 
+    3  git status
+    4  clear
+    5  git status
+    6  git add .
+    7  git status
+    8  git commit -m "Se crea  la estructura base del proyecto con carpetas y archivos base"
+    9  git config --global user.name "Samuel"
+   10  git config --global user.email "higuitat05@gmail.com"
+   11  git commit -m "Se crea una estructura base del proyecto tiene carpetas y archivos base"
+   12  history > prestamos/docs/historial.txt 
